@@ -6,7 +6,7 @@ Menggunakan API dari swapi.com aplikasi ini dapat mengambil & menampilkan info-i
 
 ## Steps to Run
 
-1. Navigate to `2-nested-routes-cp` directory
+1. Navigate to `Starwars` directory
 2. Run `npm install`
 3. Run `npm start`
 
