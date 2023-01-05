@@ -18,7 +18,7 @@ Menggunakan API dari swapi.com aplikasi ini dapat mengambil & menampilkan info-i
   - Menu Movies yang berisi film-film Star Wars
 - Tiap menu memiliki halaman detail yang berisi informasi lebih lanjut mengenai _item_ yang diklik
 
-## Hasil yang diharapkan
+## Tampilan
 
 - /star-wars
   ![Main Menu](./src/assets/screenshot-1.png)
